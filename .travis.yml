@@ -1,3 +1,5 @@
+YARN_GPG=no
+
 sudo: required
 services:
   - docker
